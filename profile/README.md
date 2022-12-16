@@ -1,6 +1,14 @@
-## Hi there 👋
+## BitcoinProjects
 
-<!--
+This is a collection of Bitcoin-based projects I (Federico Franzoni)
+developed as part of my PhD.
+
+### Project List
+- AToM: A topology monitoring system for the Bitcoin P2P network
+- Clover: a privacy-enhancing transaction propagation protocol
+
+
+<!-- This is a comment
 
 **Here are some ideas to get you started:**
 
