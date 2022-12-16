@@ -1,4 +1,4 @@
-## BitcoinProjects
+# BitcoinProjects
 
 This is a collection of Bitcoin-based projects I (Federico Franzoni)
 developed as part of my PhD.
